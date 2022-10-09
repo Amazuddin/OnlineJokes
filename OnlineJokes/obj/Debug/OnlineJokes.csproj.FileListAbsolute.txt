@@ -1,0 +1,283 @@
+F:\Bitm\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll.config
+F:\Bitm\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\OnlineJokes.pdb
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\EntityFramework.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Web.Infrastructure.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Owin.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Razor.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\WebGrease.dll
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.Razor.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.pdb
+F:\Bitm\OnlineJokes\OnlineJokes\bin\EntityFramework.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Bitm\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Bitm\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.dll
+F:\Bitm\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.pdb
+F:\Bitm\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csprojResolveAssemblyReference.cache
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll.config
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.pdb
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Web.Infrastructure.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Owin.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\WebGrease.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.pdb
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csprojAssemblyReference.cache
+D:\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CoreCompileInputs.cache
+D:\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CopyComplete
+D:\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.dll
+D:\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.pdb
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll.config
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.pdb
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Web.Infrastructure.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Owin.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\WebGrease.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.pdb
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.dll
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.pdb
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csprojAssemblyReference.cache
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CoreCompileInputs.cache
+G:\Google drive-3\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CopyComplete
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll.config
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.pdb
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Web.Infrastructure.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Owin.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\WebGrease.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.pdb
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csprojAssemblyReference.cache
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CoreCompileInputs.cache
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CopyComplete
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.dll
+G:\Google drive & my documents\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.pdb
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll.config
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\OnlineJokes.pdb
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Web.Infrastructure.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Owin.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\WebGrease.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\EntityFramework.SqlServer.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Helpers.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Mvc.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Optimization.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.Razor.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Deployment.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\System.Web.WebPages.Razor.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Newtonsoft.Json.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Antlr3.Runtime.pdb
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Google.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csprojAssemblyReference.cache
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CoreCompileInputs.cache
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.csproj.CopyComplete
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.dll
+F:\Bitm\OnlineJokes\OnlineJokes\OnlineJokes\obj\Debug\OnlineJokes.pdb

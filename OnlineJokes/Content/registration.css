@@ -1,0 +1,80 @@
+﻿body {
+}
+.heading {
+    margin-top: 30px;
+    font-weight: 800;
+    color: teal;
+    
+}
+.error_div {
+    height: 70px;
+    background-color: #73f787;
+    width: 500px;
+    margin-top: 10px;
+}
+.cerror {
+    color: red;
+    font-style: oblique;
+    text-shadow: 1px 1px 1px black;
+    font-size: 21px;
+    padding-top: 17px;
+}
+
+.error {
+    color: red;
+}
+
+.form-screen {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px;
+    margin-bottom: 150px;
+    opacity: .9;
+    color: #515151;
+}
+
+.account-dialog {
+    max-width: 500px;
+    width: 500px;
+}
+
+.button_design {
+    width: 150px;
+    background: linear-gradient(to right, #41295a, #2f0743)
+}
+
+@media (min-width: 1200px) {
+    .account-dialog {
+        min-width: 500px;
+    }
+}
+
+.account-dialog-actions {
+    -ms-flex-align: center;
+    -ms-flex-direction: row;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+}
+
+.account-dialog-link {
+    margin-left: 15px;
+    font-size: 15px;
+    color: rgba(81, 81, 81, 0.8);
+    /*color: black;*/
+    font-weight: 500;
+}
+
+    .account-dialog-link:hover {
+        color: #515151;
+        text-decoration: none;
+    }

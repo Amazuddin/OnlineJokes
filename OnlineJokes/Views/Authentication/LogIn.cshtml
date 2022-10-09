@@ -1,0 +1,94 @@
+﻿
+@{
+   // Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminRegistration</title>
+
+    <link href="~/Content/registration.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+
+<center>
+    <h1 class="heading">Admin Panel</h1>
+    @if (ViewBag.Error != null)
+    {
+        <div class="error_div">
+            <p class="cerror" id="error">@ViewBag.Error</p>
+        </div>
+       
+    }
+</center>
+<div class="form-screen">
+    <div class="card account-dialog">
+        <div class="card-header bg-primary text-white"
+             style="background: linear-gradient(to right, #41295a, #2f0743); font-size: 20px">Please LogIn </div>
+        <div class="card-body">
+
+            <form action="~/Authentication/LogIn" method="post" id="login" enctype="multipart/form-data">
+
+                <div class="form-group">
+                    <input type="email" class="form-control" id="Email" autocomplete="off"
+                           name="Email" placeholder="Enter Email" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" id="Password"
+                           name="Password" placeholder="Password" required>
+                </div>
+
+                <div class="account-dialog-actions">
+                    <button type="submit" class="btn btn-primary button_design">Sign In</button>
+                    <a class="account-dialog-link" href="~/Authentication/AdminRegistration">Create a new account</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+@section scripts
+    {
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+
+            setTimeout(function () {
+                $("#error").hide(1000).empty();
+            }, 5000);
+
+            $("#login").validate({
+
+                rules: {
+                    Email: {
+                        required: true,
+                        email: true
+                    },
+                    Password: {
+                        required: true
+
+                    }
+                },
+                messages: {
+                    Email: {
+                        required: "Please Enter Your Email",
+                        email: "Email is not correct"
+                    },
+                    Password: {
+                        required: "Please Enter Your Password"
+                    }
+                },
+              
+            });
+
+        });
+
+    </script>
+}

@@ -1,0 +1,84 @@
+﻿@model OnlineJokes.Models.JokesCategory
+
+@{
+    //Layout = null;
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+
+    <style>
+        .kt {
+            width: 115px;
+        }
+
+        .bt {
+            width: 115px;
+        }
+
+        .dld {
+            margin-top: 80px;
+            padding: 55px 60px;
+            background-color: #faf8f3;
+            border: 0px;
+            border-style: outset;
+            box-shadow: 0px 0px 20px #d8d4d4;
+            margin-bottom: 50px;
+        }
+
+        #mytable {
+            margin-bottom: 20px;
+        }
+
+        .aa {
+            margin-top: 60px;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="dld">
+            <h3>Are you sure to delete this Category?</h3>
+
+            <table id="mytable" class="table table-bordered table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.CategoryName)
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+
+                        <td>
+                            @Html.DisplayFor(item => item.CategoryName)
+                        </td>
+                    </tr>
+                </tbody>
+
+            </table>
+            <center>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color aa">
+                        <input type="submit" value="Delete" class="btn btn-danger kt" /> |
+                        @Html.ActionLink("Back", "Index", null, new { @class = "btn btn-warning bt" })
+                    </div>
+                }
+            </center>
+        </div>
+
+    </div>
+
+    <script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+    <script>
+        $(document).ready(function () {
+            var table = $('#mytable').DataTable();
+        });
+    </script>
+</body>

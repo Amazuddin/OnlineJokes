@@ -1,0 +1,24 @@
+﻿body {
+}
+
+.col-sz {
+    width: 100px;
+}
+
+.wod {
+    width: 120px;
+    margin-bottom: 2px;
+}
+
+.indexdesignbox {
+    margin: 30px 30px 30px 30px;
+    padding: 30px;
+}
+
+.newbox {
+    margin-bottom: 45px;
+    width: 18%;
+    font-family: Monoton;
+    font-size: 18px;
+    color: white;
+}

@@ -1,0 +1,87 @@
+﻿@using OnlineJokes.Models
+
+@{
+    // Layout = null;
+}
+<meta name="viewport" content="width=device-width" />
+<title>Home</title>
+<link href="~/Content/ClientPage.css" rel="stylesheet" />
+
+<div class="container">
+    <div class="tryyorself">
+
+        <form action="" method="POST">
+            <div class="serach_div">
+                <center>
+                    <table class="up">
+                        <tr>
+                            <td>
+                                <select id="CategoryId" class="form-control Category" name="CategoryName" required="">
+                                    <option value="0">Select Jokes Category</option>
+                                    @foreach (JokesCategory cat in ViewBag.jokesCategory)
+                                    {
+                                        <option value="@cat.Id">@cat.CategoryName</option>
+                                    }
+                                </select>
+                            </td>
+                            <td>
+                                <button type="submit" class="btn btn-dark btn-dark_design" id="searchbtn"><i class="fa fa-search"></i></button>
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </div><br />
+        </form>
+
+        <div class="row" id="drow">
+            @foreach (JokesInfo jokes in ViewBag.jokesInfo)
+            {
+                <div class="col-md-3">
+                    <div class="jokesdiv">
+                        <img class="jokes-image" src="~/@jokes.Image">
+                        <div class="jokesdata_div">
+                            <h3 class="namedesign_jokes">@jokes.JokesName</h3>
+                            <h3 class="h3tkdesign">@jokes.WriterName</h3>
+                            <a href="~/ClientSite/JokeShow?id=@jokes.Id">
+                                <button class="buttonread" type="submit" name="submit">Read</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $('#searchbtn').on('click', function () {
+
+                 $('#drow').show();
+                var categoryid = $('#CategoryId').val();
+                if (categoryid === null)
+                    reload();
+
+                $('#drow').empty();
+
+                var json = { categoryid: categoryid };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetAllJokesbyCategoryId", "ClientSite")',
+                    contentType: 'application/json',
+                    data: JSON.stringify(json),
+                    success: function (response) {
+                        $.each(response, function (key, value) {
+                            $('#drow').append('<div class="col-md-3"><div class="jokesdiv"><img class="jokes-image" src="/' + value.Image + '"/><div class="jokesdata_div"><h3 class="namedesign_jokes">' + value.JokesName + '</h3><h3 class="h3tkdesign">' + value.WriterName + '</h3><a href="' + value.UrlLink + 'JokeShow?id=' + value.Id + '"> <button class="buttonread" type="submit">Read</button></a></div></div></div>');
+                        });
+                    }
+                });
+                return false;
+            });
+        });
+    </script>
+}
+
+

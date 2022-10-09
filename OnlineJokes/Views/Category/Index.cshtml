@@ -1,0 +1,62 @@
+﻿@model IEnumerable<OnlineJokes.Models.JokesCategory>
+
+@{
+    //Layout = null;
+}
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/allIndex.css" rel="stylesheet" />
+    <link href="~/Content/DataTables/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <div class=" indexdesignbox">
+        <center>
+            <p>
+                @Html.ActionLink("Add Jokes Category", "Create", null, new { @class = "newbox btn btn-dark" })
+            </p>
+        </center>
+        <table id="datatable" class="table table-bordered table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id)
+                    </th>
+                    <th>
+                        Category Name
+                    </th>                 
+                    <th>
+                        Action
+                    </th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryName)
+                    </td>                   
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary wod" }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger wod" })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var table = $('#datatable').DataTable();
+        });
+    </script>
+}

@@ -1,0 +1,56 @@
+﻿body {
+}
+
+.cerror {
+    color: red;
+    font-style: oblique;
+    text-shadow: 1px 1px 1px black;
+    margin-top: 10px;
+    background-color: salmon;
+    width: 500px;
+}
+
+.error {
+    color: red;
+}
+.form-screen {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 120px;
+    margin-bottom: 150px;
+    opacity: .9;
+    color: #515151;
+}
+
+.account-dialog {
+    max-width: 500px;
+    width: 500px;
+}
+
+.button_design {
+    width: 150px;
+    background: linear-gradient(to right, #41295a, #2f0743)
+}
+
+@media (min-width: 1200px) {
+    .account-dialog {
+        min-width: 500px;
+    }
+}
+
+.account-dialog-actions {
+    -ms-flex-align: center;
+    -ms-flex-direction: row;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-flex-direction: row;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+}

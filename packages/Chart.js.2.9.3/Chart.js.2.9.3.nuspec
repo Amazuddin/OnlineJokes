@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Chart.js</id>
+    <version>2.9.3</version>
+    <title>Chart.js</title>
+    <authors>Nick Downie</authors>
+    <owners>Nick Downie</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://www.chartjs.org/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple HTML5 Charts using the canvas element.</description>
+    <summary />
+  </metadata>
+</package>

@@ -1,0 +1,113 @@
+﻿@model OnlineJokes.Models.JokesInfo
+
+@{
+    //Layout = null;
+}
+
+<head>
+    <meta name="viewport" content="width=device-width"/>
+
+    <title>Edit</title>
+    <style>
+        .b-box {
+            background-color: #faf8f3;
+            border: 1px steelblue;
+            border-radius: 25px;
+            box-shadow: 0px 0px 20px #d8d4d4;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            padding: 41px;
+        }
+
+        .bbt {
+            width: 12%;
+        }
+
+        .button_design {
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        .error { color: red; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 b-box">
+            @using (Html.BeginForm("Edit", "Jokes", FormMethod.Post, new {name = "insertForm", id = "insertForm", enctype = "multipart/form-data"}))
+            {
+                @Html.AntiForgeryToken()
+                <div class="form-horizontal">
+                    <center>
+                        <h2 style="margin-bottom: 20px; font-family: Monoton;">Edit Jokes Information</h2>
+                    </center>
+                    @Html.ValidationSummary(true)
+                    <div class="form-group row">
+                        <div class="col-md-2"> </div>
+                        @Html.LabelFor(model => model.WriterName, new { @class = "control-label col-md-2" })
+                        <div class="col-md-5">
+                            <input type="text" name="WriterName" value="@Model.WriterName" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-2"> </div>
+                        @Html.LabelFor(model => model.JokesName, new { @class = "control-label col-md-2" })
+                        <div class="col-md-5">
+                            <input type="text" name="JokesName" value="@Model.JokesName" class="form-control" />
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-md-2"> </div>
+                        @Html.LabelFor(model => model.JokesCategoryId, new {@class = "control-label col-md-2"})
+                        <div class="col-md-5">
+                            <select name="JokesCategoryId" class="form-control">
+                                <option value="">Select Category</option>
+                                @foreach (var v in ViewBag.Category)
+                                {
+                                    if (v.Id == Model.JokesCategoryId)
+                                    {
+                                        <option value="@v.Id" selected="selected">@v.CategoryName</option>
+                                    }
+                                    <option value="@v.Id">@v.CategoryName</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    
+
+                    <div class="form-group row">
+                        <div class="col-md-2"> </div>
+                        @Html.LabelFor(model => model.Jokes, new { @class = "control-label col-md-2" })
+                        <div class="col-md-5">
+                            <textarea class="form-control" name="Jokes" style="height: 250px" required=""> @Model.Jokes</textarea>
+
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-md-2"> </div>
+                        @Html.LabelFor(model => model.Image, new {@class = "control-label col-md-2"})
+                        <div class="col-md-5">
+                            <input type="file" name="Image"/>
+                            <input type="hidden" name="pastImage" value="@Model.Image"/>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-md-12 button_design">
+                            <input type="submit" value="Edit" class="btn btn-primary bbt " />
+                            @Html.ActionLink("Back", "JokesIndex", null, new { @class = "btn btn-warning bbt" })
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+
+</div>
+
+</body>

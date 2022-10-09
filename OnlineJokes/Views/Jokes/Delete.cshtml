@@ -1,0 +1,105 @@
+﻿@model OnlineJokes.Models.JokesInfo
+
+@{
+    //Layout = null;
+}
+
+<meta name="viewport" content="width=device-width" />
+<title>Delete</title>
+
+<link href="~/Content/DataTables/css/dataTables.bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+<style>
+    .kt {
+        width: 115px;
+    }
+
+    .bt {
+        width: 115px;
+    }
+
+    .dld {
+        /*margin-left: 100px;
+            margin-right: 100px;*/
+        margin-top: 80px;
+        padding: 55px 60px;
+        background-color: #faf8f3;
+        border: 0px;
+        border-style: outset;
+        box-shadow: 0px 0px 20px #d8d4d4;
+        border-radius: 10px;
+        margin-bottom: 50px;
+    }
+
+    #mytable {
+        margin-bottom: 20px;
+    }
+
+    .aa {
+        margin-top: 60px;
+    }
+</style>
+
+
+
+<div class="container">
+    <div class="dld">
+        <h3>Are you sure to delete this?</h3>
+
+        <table id="mytable" class="table table-bordered table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.WriterName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.JokesName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Jokes)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Image)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(item => item.WriterName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(item => item.JokesName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(item => item.Jokes)
+                    </td>
+                   
+                    <td>
+                        <img src="~/@Html.DisplayFor(model =>model.Image)" style="height:100px;width:100px;" />
+                    </td>
+                </tr>
+            </tbody>
+
+        </table>
+        <center>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-actions no-color aa">
+                    <input type="submit" value="Delete" class="btn btn-danger kt" /> |
+                    @Html.ActionLink("Back", "JokesIndex", null, new { @class = "btn btn-warning bt" })
+                </div>
+            }
+        </center>
+    </div>
+    <script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+    <script>
+        $(document).ready(function () {
+            // var table = $('#mytable').DataTable();
+        });
+    </script>
+</div>

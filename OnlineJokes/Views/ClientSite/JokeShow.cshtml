@@ -1,0 +1,105 @@
+﻿@using OnlineJokes.Models
+@{
+    //Layout = null;
+    ViewJokesInfo joke = ViewBag.jokesInfo;
+}
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>JokeShow</title>
+    <style>
+        .b-box {
+            background-color: #faf8f3;
+            border: 1px steelblue;
+            border-radius: 25px;
+            box-shadow: 0px 0px 20px #d8d4d4;
+            margin-bottom: 30px;
+            margin-top: 50px;
+            padding: 40px;
+        }
+
+        .jokename {
+            font-weight: 700;
+        }
+
+        .writername {
+            color: brown;
+        }
+        .backbutton {
+            width: 120px;
+            font-weight: 600;
+            font-size: 17px;
+        }
+
+        .jokes-image {
+            width: 100%;
+            height: 250px;
+        }
+
+        .comment {
+            width: 300px;
+            border-radius: 20px;
+            margin-bottom: 25px;
+        }
+
+        .comment_button {
+            margin-top: -30px;
+            border-radius: 15px;
+            font-size: 15px;
+        }
+        .comment_section {
+            background-color: #eee4dc;
+            border-radius: 20px;
+            width: 500px;
+            height: inherit;
+            padding: 5px 5px 5px 5px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row b-box">
+            <div class="col-md-8">
+                <h2 class="jokename">@joke.JokesName</h2>
+                <h4 class="writername">লেখক: @joke.WriterName</h4><br />
+                @foreach (var item in joke.Jokes)
+                {
+                    <h5 class="jokes">@item</h5>
+                }
+                <br />
+                <a href="~/ClientSite/Home">
+                    <button class="btn btn-warning backbutton" type="submit" name="submit"><i class="fa fa-arrow-circle-left" aria-hidden="true"></i>Back</button>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <img class="jokes-image" src="~/@joke.Image">
+
+            </div>
+        </div>
+        <form action="JokeShow" method="POST">
+            <table>
+                <tr>
+                    <td>
+                        <input type="text" class="form-control comment" name="Comment" required="" value="" placeholder="write a comment..." />
+                    </td>
+                    <td>
+                        <button class="btn btn-dark comment_button" name="JokesInfoId" value="@joke.Id" type="submit">Send <i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+
+        @if (ViewBag.Comment != null)
+        {
+            foreach (var comments in ViewBag.Comment)
+            {
+                <div class="comment_section">
+                    <h6 style="margin-left:12px;"><i class="fas fa-user"></i> Unknown User | @comments.CommentDateTime</h6>
+                    <h6  style="margin-left:12px;">@comments.Comment</h6>
+                </div>         
+            }
+
+        }
+    </div>
+</body>
+
