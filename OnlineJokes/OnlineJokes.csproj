@@ -355,6 +355,7 @@
     <Content Include="Content\fontawesome-all.min.css" />
     <Content Include="Content\fontawesome.css" />
     <Content Include="Content\fontawesome.min.css" />
+    <Content Include="Content\JokeShow.css" />
     <Content Include="Content\registration.css" />
     <Content Include="Content\regular.css" />
     <Content Include="Content\regular.min.css" />
